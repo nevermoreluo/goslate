@@ -4,7 +4,8 @@
 ## Goslate
 
 ### 写在前面  
-
+由于google项目全面收费，因此该项目代码目前已不适合批量使用
+仅做学习参考
 项目源自https://bitbucket.org/zhuoqiang/goslate。
 此项目仅是一份fork，用于日后的学习使用，源自[bitbucket](https://bitbucket.org/zhuoqiang/goslate)。
 Goslate (Google Translate)利用谷歌API翻译，
